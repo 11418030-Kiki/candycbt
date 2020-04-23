@@ -38,9 +38,8 @@ BNI : 0318610166
 ```
 
 Admin (Shinau Lee Been Vinter)
-```bash
 DANA : https://link.dana.id/minta/2miwb92pk58
-
+```bash
 Briva BRI : 8881 0 0857 1868 3442
 
 Briva BCA : 3901 0857 1868 3442
